@@ -39,4 +39,4 @@ I am gleefully awaiting pull requests for windows support.
 
 ## Examples
 
-Currently, I'm too lazy to write up some good documentation; check out the example file in the root directory.
+Currently, I'm too lazy to write up some good documentation; check out the `examples` directory.
