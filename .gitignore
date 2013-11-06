@@ -3,3 +3,8 @@
 
 # Node artifacts
 node_modules
+
+# Python artifacts
+python/build
+python/dist
+python/MANIFEST
