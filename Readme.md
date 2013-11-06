@@ -12,6 +12,27 @@ the privacy of their own pipes, who am I to stop them?
 Seriously, sometimes you just want to run python from node. If you can't see why you'd ever want to, then this obviously
 isn't the library for you.
 
+## Installation
+
+I've tried to make installation as simple as possible. However, nodepy is two separate packages, out of necessity. Read
+on for instructions for each side.
+
+## Node
+
+Simply install through npm:
+
+```bash
+$ npm install nodepy --save
+```
+
+## Python
+
+Unfortunately, "nodepy" is already taken on pypi. So, you instead need to install the intuitively named `pynode`:
+
+```bash
+$ easy_install pynode
+```
+
 ## Windows Support
 
 I am gleefully awaiting pull requests for windows support.
