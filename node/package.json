@@ -1,0 +1,24 @@
+{
+  "name": "nodepy",
+  "version": "0.1.0",
+  "description": "A node module for launching python workers and providing two way communication.",
+  "main": "nodepy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Morgul/nodepy.git"
+  },
+  "keywords": [
+    "node",
+    "python",
+    "pipes",
+    "supervisor"
+  ],
+  "author": "Christopher S. Case <chris.case@g33xnexus.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Morgul/nodepy/issues"
+  }
+}
