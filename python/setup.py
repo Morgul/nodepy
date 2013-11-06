@@ -8,5 +8,5 @@ setup(name='pynode',
       author='Christopher S. Case',
       author_email='chris.case@g33xnexus.com',
       url='https://github.com/Morgul/nodepy',
-      packages=['nodepy'],
+      packages=['pynode'],
      )
